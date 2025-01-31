@@ -56,8 +56,9 @@
 							}
 						],
 						"styles": [
-							"src/styles.scss"
-						],
+							"src/styles.scss",
+              "node_modules/primeflex/primeflex.css"
+            ],
 						"scripts": []
 					}
 				},
@@ -80,8 +81,9 @@
 							}
 						],
 						"styles": [
-							"src/styles.scss"
-						],
+							"src/styles.scss",
+              "node_modules/primeflex/primeflex.css"
+            ],
 						"scripts": []
 					},
 					"configurations": {
